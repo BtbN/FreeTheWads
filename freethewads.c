@@ -13,6 +13,7 @@
 #include <stdlib.h>
 #include <arpa/inet.h>
 #include <openssl/aes.h>
+#include <openssl/sha.h>
 #include <limits.h>
 
 #define	OFFSET_REGION		(0x19d)
